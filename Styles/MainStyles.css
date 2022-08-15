@@ -1,0 +1,20 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+    max-width: 1920px;
+    max-height: 1080px;
+    overflow: hidden;
+}
+
+main
+{
+    width: 1920px;
+    height: 1080px;
+    background-image: url('../Images/ZyzzTheme.png');
+    background-size: 1920px 1080px;
+}
