@@ -13,8 +13,8 @@ body
 
 main
 {
-    width: 1920px;
-    height: 1080px;
+    width: 100vw;
+    height: 100vh;
     background-image: url('../Images/ZyzzTheme.png');
-    background-size: 1920px 1080px;
+    background-size: 100% 100%;
 }
